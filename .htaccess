@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "My Protected Area"
+AuthUserFile /var/www/fe_gsearch/search-engine-scraper/.htpasswd
+Require valid-user
